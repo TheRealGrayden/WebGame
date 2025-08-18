@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "WebGame",
+			"path": "."
+		},
+		{
+			"name": "build",
+			"path": "../../../AppData/Roaming/Python/Game Projects/WebGameProjectV2/WebGameProjectV2.1/build"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebGame"
+	}
+}
